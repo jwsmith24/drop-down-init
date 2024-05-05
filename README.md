@@ -23,4 +23,4 @@ const menuElement = {
 
 Add `drop-icon` to the class list of the drop down menu icon/button.
 
-After the function executes, the drop down menu will become visible on mouseover and each element will redirect to the given path on click. Additionally, the drop down menu will become hidden on mouseout or when the menu icon is clicked.
+After the function executes, the drop down menu will become visible on mouseover and each element will redirect to the given path on click. The drop down menu will hide on mouseout or when the menu icon is clicked.
