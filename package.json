@@ -1,6 +1,6 @@
 {
   "name": "drop-down-init",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a functional drop down menu given a list of html elements and their associated target paths.",
   "main": "drop-down.js",
   "scripts": {
