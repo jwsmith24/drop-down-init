@@ -2,7 +2,7 @@
 
 Dynamically add drop-down functionality to a collection of HTML elements without external dependencies.
 
-Check out the repo on GitHub [here](https://github.com/jwsmith24/drop-down-init).
+Check out the repo on GitHub [here](https://github.com/jwsmith24/drop-down-init) or view the package on [npm](https://www.npmjs.com/package/drop-down-init?activeTab=readme).
 
 ## How to Install
 
