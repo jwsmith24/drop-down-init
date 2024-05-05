@@ -15,10 +15,10 @@ Install via npm with the following command:
 Import `initDropdown` from the package. The function accepts an array of menu option objects with the format:
 
 ```javascript
-{
-    id: '<elementId>',
-    href: '<relative path to target>',
-}
+const menuElement = {
+  id: '<elementId>',
+  href: '<relative path to target>',
+};
 ```
 
 Add `drop-icon` to the class list of the drop down menu icon/button.
