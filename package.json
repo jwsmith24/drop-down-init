@@ -1,14 +1,14 @@
 {
   "name": "drop-down-init",
   "version": "1.0.1",
-  "description": "Creates a functional drop down menu given a list of html elements and their associated target paths.",
+  "description": "Dynamically add drop-down functionality to a collection of HTML elements without external dependencies.",
   "main": "drop-down.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jwsmith24/drop-down-init.git"
+    "url": "https://github.com/jwsmith24/drop-down-init.git"
   },
   "keywords": [
     "dropdown",

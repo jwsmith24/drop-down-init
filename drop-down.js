@@ -8,7 +8,7 @@
  * href: <rel path to target>
  * }
  */
-export const initDropdown = (menuOptions) => {
+exports.initDropdown = (menuOptions) => {
   const dropDownMenu = document.getElementById('drop-icon');
   dropDownMenu.addEventListener('click', () => {
     hideMenu();
