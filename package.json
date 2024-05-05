@@ -1,0 +1,23 @@
+{
+  "name": "drop-down-init",
+  "version": "1.0.0",
+  "description": "Creates a functional drop down menu given a list of html elements and their associated target paths.",
+  "main": "drop-down.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwsmith24/drop-down-init.git"
+  },
+  "keywords": [
+    "dropdown",
+    "menu"
+  ],
+  "author": "jsmith181997@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwsmith24/drop-down-init/issues"
+  },
+  "homepage": "https://github.com/jwsmith24/drop-down-init#readme"
+}
