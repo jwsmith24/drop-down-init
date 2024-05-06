@@ -10,7 +10,7 @@ Install via npm with the following command:
 
 `npm install -S drop-down-init`
 
-## Usage Instructions
+## Using the Module
 
 Import `initDropdown` from the package. The function accepts an array of menu option objects with the format:
 
