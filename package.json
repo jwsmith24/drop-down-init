@@ -1,6 +1,6 @@
 {
   "name": "drop-down-init",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Dynamically add drop-down functionality to a collection of HTML elements without external dependencies.",
   "main": "drop-down.js",
   "scripts": {
